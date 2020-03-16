@@ -1,3 +1,3 @@
-module github.com/SoyeeDst/go-imagequant
+module github.com/soyeedst/go-imagequant
 
 go 1.12
